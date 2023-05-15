@@ -13,3 +13,11 @@
 	* 文字編輯器
 		* VSCode
 		* Notepad++
+
+下載或clone完該份專案之後，進入到專案資料夾內，開啟 Terminal，輸入以下指令並送出
+```shell
+$ retype watch
+```
+
+Retype CLI 會幫你開啟一個開發用的網站，只要專案資料夾內的檔案有新增或有內容變化，網頁內容就會進行重載。
+至於 Retype 詳細如何使用，請參考[官網](https://retype.com)
